@@ -1,0 +1,12 @@
+# Example
+# consultant/datein/dateout/client
+
+# format date = year-month-date
+
+ThomasLasaucetomate/2017-01-01/2017-12-01/ECAM
+AlbertLeverredeterre/2017-06-05/2017-08-12/ZorroInc
+AlphonseBronze/2017-02-02/2017-04-05/ECAM
+AlbertLeverredeterre/2017-08-15/2017-10-12/ZorroInc
+AlbertLeverredeterre/2017-10-14/2017-12-12/ECAM
+AlphonseBronze/2017-02-02/2017-04-05/ZorroInc
+AlphonseBronze/2017-05-04/2017-12-18/ECAM

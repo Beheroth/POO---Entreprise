@@ -1,0 +1,8 @@
+# Example
+# NameManager/NameConsultant[0]-NameConsultant[1]-...-NameConsultant[n]
+
+# Precondition: the consultant and the manager must exist in the EmployeFile.txt
+# Postcondition: /
+
+MartineVanager/ThomasLasaucetomate-AlbertLeverredeterre
+LanceleauDelaflac/AlphonseBronze

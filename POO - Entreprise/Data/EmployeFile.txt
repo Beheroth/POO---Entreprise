@@ -1,0 +1,17 @@
+# Example
+# job/firstname/lastname/personnalaccount(int)
+
+# personnal account is the money the person has on his account
+# job must be one of them (manager, consultant, director, humanresourcedirector, financialdirector)
+
+consultant/Thomas/Lasaucetomate/10
+consultant/Albert/Leverredeterre/0
+consultant/Alphonse/Bronze/15
+
+manager/Martine/Vanager/20
+manager/Lanceleau/Delaflac/25
+
+
+director/Jacky/Tuning/50
+financialdirector/Chipotle/Lachipolata/57
+humanressourcedirector/Darth/Vador/45
