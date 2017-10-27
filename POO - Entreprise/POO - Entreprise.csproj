@@ -42,6 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Client.cs" />
+    <Compile Include="Consultant.cs" />
+    <Compile Include="Director.cs" />
+    <Compile Include="Entreprise.cs" />
+    <Compile Include="File.cs" />
+    <Compile Include="FinancialDirector.cs" />
+    <Compile Include="Generator.cs" />
+    <Compile Include="HumanResourcesDirector.cs" />
+    <Compile Include="IClient.cs" />
+    <Compile Include="InterfaceClient.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="Mission.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
