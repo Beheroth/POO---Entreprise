@@ -15,7 +15,7 @@ namespace POO___Entreprise
         {
             this.FileName = filename;
             // All files are in the folder Data
-            this.Path = @"Data\" + this.FileName; ;
+            this.Path = @"..\..\Data\" + this.FileName; ;
         }
 
         private string[] LoadFile()
